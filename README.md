@@ -32,3 +32,12 @@ socio-economic class, etc). In this project , Logistic Regression Model is used.
 
  7 Evaluation
    Our model predicts 76% of the time, a passengers survival correctly (precision). The recall tells us that it predicted the survival of 68% of the people who actually survived.The first row is about the not-survived-predictions: 129 passengers were correctly classified as not survived (called true negatives) and 24 where wrongly classified as not survived (false positives). The second row is about the survived-predictions: 37 passengers where wrongly classified as survived (false negatives) and 78 where correctly classified as survived (true positives).
+   
+   
+ ### Tools used
+ 
+ 1 Numpy
+ 2 Pandas
+ 3 scikit learn
+ 4 matplotlib
+ 5 seaborn
