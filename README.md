@@ -37,7 +37,11 @@ socio-economic class, etc). In this project , Logistic Regression Model is used.
  ### Tools used
  
  1 Numpy
+ 
  2 Pandas
+ 
  3 scikit learn
+
  4 matplotlib
+ 
  5 seaborn
